@@ -1,0 +1,42 @@
+[
+  {
+    "originCountry": "Israel (₪)",
+    "destinationCountry": "Spain (€)",
+    "rate": 0.46711224675372237
+  },
+  {
+    "originCountry": "Israel (₪)",
+    "destinationCountry": "Great Britain (£)",
+    "rate": 0.6431711540086642
+  },
+  {
+    "originCountry": "Spain (€)",
+    "destinationCountry": "Israel (₪)",
+    "rate": 0.8383067907543522
+  },
+  {
+    "originCountry": "Spain (€)",
+    "destinationCountry": "Great Britain (£)",
+    "rate": 0.5658898562181394
+  },
+  {
+    "originCountry": "Spain (€)",
+    "destinationCountry": "Japan (¥)",
+    "rate": 1.2988224870305032
+  },
+  {
+    "originCountry": "Great Britain (£)",
+    "destinationCountry": "Israel (₪)",
+    "rate": 1.6606570876740048
+  },
+  {
+    "originCountry": "Great Britain (£)",
+    "destinationCountry": "Spain (€)",
+    "rate": 0.8621530887240663
+  },
+  {
+    "originCountry": "Japan (¥)",
+    "destinationCountry": "Spain (€)",
+    "rate": 1.0443402817189518
+  }
+]
