@@ -30,14 +30,14 @@ npm run start:clean
 
 ### Actual Testing
 
-To get the model that says: 'the rate has been updated please take a look again'
+To get the modal that says: 'the rate has been updated please take a look again'
 1. See that the server updated its rate while the rate didnt change in the UI of the app
 2. Select amounts and press submit
 
-To get the model that says: 'The request has been successful'
+To get the modal that says: 'The request has been successful'
 1. Try to time the moment that both of them have the same rate
 2. Select amounts and press submit
 
-Life Hack for this model: 
+Life Hack for the second modal: 
 1. Press submit to get the 'the rate has been updated please take a look again' 
 2. Then press again to get the successful message (since the fail submit retrive the updated rates)
